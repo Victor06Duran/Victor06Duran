@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
 
+<h4> GAMES </h4>
+<span>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </br>  
+  <a href="https://lucretia-before-the-storm.vercel.app/">[Lucretia: Before The Storm 1.0]</a>
+</span>
 
 <!--
 **Victor06Duran/Victor06Duran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
